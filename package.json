@@ -1,11 +1,23 @@
 {
   "name": "cyclepedia",
   "version": "0.0.1",
-  "description": "A cycle pedia",
+  "description": "Cycle Pedia",
+  "dependencies": {
+    "dati": "0.0.1"
+  },
   "main": "package/index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/cyclepedia.git"
+  },
+  "keywords": [],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/cyclepedia/issues"
+  },
+  "homepage": "https://github.com/colohr/cyclepedia#readme"
 }

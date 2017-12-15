@@ -1,6 +1,7 @@
 {
   "endpoint":"https://en.wikipedia.org/w/api.php",
   "headers":{
-    "Api-User-Agent":"Cycle Pedia/0.0.1 (https://example.org/MyCoolTool/; colohr.code@gmail.org)"
-  }
+    "Api-User-Agent":"Cycle Pedia/0.0.1 (https://github.com/colohr/cyclepedia; colohr.code@gmail.org)"
+  },
+  "method":"GET"
 }
