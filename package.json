@@ -1,0 +1,11 @@
+{
+  "name": "cyclepedia",
+  "version": "0.0.1",
+  "description": "A cycle pedia",
+  "main": "package/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC"
+}
